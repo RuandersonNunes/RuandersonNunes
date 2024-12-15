@@ -17,7 +17,7 @@ Atualmente estou atuando como jovem aprendiz na área de tecnologia, usando pyth
     alt="python"
     title="python"
     width="30px"
-    style="padding-right: 18px;"   
+    style="padding-bottom: 18px;"   
     src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"
 />   
 
