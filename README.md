@@ -26,13 +26,7 @@ Atualmente estou atuando como jovem aprendiz na área de tecnologia, usando pyth
     alt="django"
     title="django"
     width="30px"
-    style="padding-right: 18px;"   
-    src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor"
-/>   
-
-<img
-    align="left"
-    alt="git"
+    style="padding-bottom: 15px;"
     title="git"
     width="30px"
     style="padding-right: 10px;"
